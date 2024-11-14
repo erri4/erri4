@@ -38,6 +38,9 @@ Feel free to check out my repositories, and don't hesitate to reach out for coll
 - **Features:** login system, contact search, chats
 
 
+> note: every mention of a func module is a mention to my functions repository. on my computer it is on my lib diractory for easier importing across all locations on my computer.
+
+
 # thanks
 > @mironabr, I just wanted to take a moment to thank you for always being there for me. Your help with coding has meant the world to me, even though we’re working in different languages (you in Java, me in Python!). You've made the learning process so much easier, and I really appreciate your patience and support. Whether it’s answering questions, reviewing my code, or just offering advice, you’ve always been there, and it’s made a huge difference. Thanks again for being such an awesome friend and coding mentor!
 
