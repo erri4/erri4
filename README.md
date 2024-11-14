@@ -36,3 +36,11 @@ Feel free to check out my repositories, and don't hesitate to reach out for coll
 - **Tech Stack:** PHP, MySQL
 - **Description:** A backend system for managing mails.
 - **Features:** login system, contact search, chats
+
+
+# thanks
+> @mironabr, I just wanted to take a moment to thank you for always being there for me. Your help with coding has meant the world to me, even though we’re working in different languages (you in Java, me in Python!). You've made the learning process so much easier, and I really appreciate your patience and support. Whether it’s answering questions, reviewing my code, or just offering advice, you’ve always been there, and it’s made a huge difference. Thanks again for being such an awesome friend and coding mentor!
+
+> thanks to @Username for following my GitHub! Your follow served as a reminder that I need to add README files to my repositories. I'll be sure to update them to make the projects more accessible and understandable.
+
+> Feel free to explore my repos, and if you have any suggestions, I'm always open to feedback!
