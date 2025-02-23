@@ -6,13 +6,15 @@
 
 Hi there! I'm a passionate and versatile developer with expertise in a wide range of technologies, including Python, SQL, JavaScript, HTML, CSS, git and PHP. I thrive on building innovative solutions and continuously learning new skills. Whether working on the backend, frontend, or full-stack.
 
+Also, lastly i started learning C++ for my education in computer science. The "cpp" repo is just for me to backup my homework, but you can view and use the code in there.
+
 Feel free to check out my repositories, and don't hesitate to reach out for collaborations or if you want to chat about coding!
 
 ---
 
 ## Skills
 
-- **Languages:** Python, SQL, JavaScript, PHP
+- **Languages:** Python, SQL, JavaScript, PHP, C++
 - **Web Technologies:** HTML, CSS
 - **Databases:** MySQL
 - **Tools & Frameworks:** Flask, Websocket-server
@@ -38,7 +40,7 @@ Feel free to check out my repositories, and don't hesitate to reach out for coll
 - **Features:** login system, contact search, chats
 
 
-> note: every mention of a func module is a mention to my functions repository. on my computer it is on my lib diractory for easier importing across all locations on my computer.
+> note: every mention of a func or WebsocketServer module is a mention to my pypackage repository. on my computer it is installed with pip for easier importing across all locations on my computer.
 
 
 # thanks
