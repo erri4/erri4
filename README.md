@@ -17,7 +17,7 @@ Feel free to check out my repositories, and don't hesitate to reach out for coll
 - **Languages:** Python, SQL, JavaScript, PHP, C++
 - **Web Technologies:** HTML, CSS
 - **Databases:** MySQL
-- **Tools & Frameworks:** Flask, Websocket-server
+- **Tools & Frameworks:** Flask, WebsocketServer
 
 ---
 
@@ -25,7 +25,7 @@ Feel free to check out my repositories, and don't hesitate to reach out for coll
 
 ### [websocket](https://github.com/erri4/websocket)
 
-- **Tech Stack:** Python, Flask, websocket-server, mysql
+- **Tech Stack:** Python, Flask, WebsocketServer, MySQL, HTML, CSS, JavaScript
 - **Description:** A web application for an online game and an imitation of hitbox.io.
 - **Features:** login system, live chats
 
