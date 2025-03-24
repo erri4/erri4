@@ -39,8 +39,8 @@ Feel free to check out my repositories, and don't hesitate to reach out for coll
 - **Description:** A backend system for managing mails.
 - **Features:** login system, contact search, chats
 
-
-> note: every mention of a func or WebsocketServer module is a mention to my pypackage repository. on my computer it is installed with pip for easier importing across all locations on my computer.
+### note:
+> every mention of a func or WebsocketServer module is a mention to my pypackage repository. on my computer it is installed with pip for easier importing across all locations on my computer.
 
 
 # thanks
